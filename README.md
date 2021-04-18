@@ -1,4 +1,5 @@
 # Bike rentals
+* [Bike rentals analysis](https://www.youtube.com/watch?hd=1&v=gywj5snvMpo&feature=youtu.be)
 * Investigation into bike rentals for Blue Bikes and Divvy Bikes 
 * Investigation into our collected bike data for the year of 2017 through to 2019
 * In particular trying to gain a better understanding of our clients habits
