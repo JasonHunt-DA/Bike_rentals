@@ -11,6 +11,7 @@
 * Is the subscription side of these businesses growing?
 * Is there a difference in growth between holiday activity and commuting activity?
 
+![](images/question1_different_bike_users.png)
 
 ## Geospatial Analysis
 * Three main questions we asked ourselves:
