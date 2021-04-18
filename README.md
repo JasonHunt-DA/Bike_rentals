@@ -3,6 +3,7 @@
 * Investigation into bike rentals for Blue Bikes and Divvy Bikes 
 * Investigation into our collected bike data for the year of 2017 through to 2019
 * In particular trying to gain a better understanding of our clients habits
+* Cleansing, Wrangling and Analysis performed in MS Excel 
 
 ## Analysing Trends
 * Three main questions we asked ourselves:
